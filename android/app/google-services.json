@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "302601394691",
+    "firebase_url": "https://real-time-maps-b5cd0-default-rtdb.firebaseio.com",
+    "project_id": "real-time-maps-b5cd0",
+    "storage_bucket": "real-time-maps-b5cd0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302601394691:android:f812cc3622f0a8da0c4c36",
+        "android_client_info": {
+          "package_name": "com.example.real_time_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZ_UAmSZpo8vOEXRNUmhMoJO5aFCxLxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302601394691:android:3e022a54a0362bac0c4c36",
+        "android_client_info": {
+          "package_name": "com.example.user_b_app.user_b_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnZ_UAmSZpo8vOEXRNUmhMoJO5aFCxLxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
